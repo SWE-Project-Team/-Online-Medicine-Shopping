@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Online Medicine Shopping",
+    "\\Online Medicine Shopping\\Controllers",
+    "\\Online Medicine Shopping\\Views"
   ],
-  "SelectedNode": "\\Online Medicine Shopping.sln",
+  "SelectedNode": "\\Online Medicine Shopping\\Models",
   "PreviewInSolutionExplorer": false
 }
